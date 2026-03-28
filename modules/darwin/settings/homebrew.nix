@@ -16,6 +16,10 @@
       "kubernetes-cli"
       "pgcli"
       "tmux"
+      {
+        name = "ollama";
+        start_service = true;
+      }
     ];
 
     extraConfig = ''

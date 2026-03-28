@@ -7,5 +7,6 @@
     nodejs_22
     gh
     direnv
+    rustup
   ];
 }
